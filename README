@@ -1,0 +1,26 @@
+# 💬 Chat RH – Assistant intelligent pour la base de données de recrutement
+
+**Chat RH** est une application de chat qui permet aux utilisateurs d’interagir **en langage naturel** avec une base de données de **recrutement**. Elle simplifie l’accès aux données sans nécessiter de compétences en SQL, facilitant ainsi la consultation d'informations clés sur les candidats, les offres, les entretiens
+
+---
+
+## 🎯 Objectif
+
+L’objectif du projet est de **rendre les données de recrutement accessibles à tous**, même aux personnes non techniques. Grâce à l'intelligence artificielle, un utilisateur peut simplement poser des questions comme :
+
+- *"Quels sont les candidats en attente d’entretien ?"*
+- *"Combien de candidatures ont été reçues ce mois-ci ?"*
+
+L'application traduit automatiquement ces questions en requêtes SQL, interroge la base et retourne les résultats.
+
+---
+
+## 🚀 Fonctionnalités principales
+
+- 💬 Interface de chat intuitive pour interroger la base
+- 🤖 Traduction automatique du langage naturel en SQL
+- 📁 Accès aux informations sur les **candidats**, **postes**, **entretiens**, **recruteurs**, 
+- 📊 Affichage lisible des résultats
+- 🔒 Sécurisation des accès (fichier `.env`, clé API)
+
+---
